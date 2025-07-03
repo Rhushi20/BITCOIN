@@ -1,50 +1,50 @@
-**📊 Bitcoin Cryptocurrency Market Analysis – Power BI Report**
+# 📊 Bitcoin Cryptocurrency Market Analysis – Power BI Report
 
-This repository contains a Power BI-generated PDF report that provides a comprehensive multi-page dashboard analysis of the **Bitcoin cryptocurrency market** from **2017 to 2022.**
+This repository contains a Power BI-generated PDF report that provides a detailed multi-page dashboard analysis of the **Bitcoin cryptocurrency market** from **2017 to 2022**.
 
-**🔧 Tools Used:**
-**Power BI Desktop** (for data modeling, DAX, and visualization)
+---
 
-**📌 Key Features:**
-**Volatility Analysis** by year and date
+## 🔧 Tools Used
 
-**Intraday Price & Volume Patterns** by hour and day of the week
+- **Power BI Desktop**  
+  Used for data cleaning, modeling, DAX calculations, KPI creation, and interactive data visualization.
 
-**Yearly Comparison** of average, min, max prices, and total traded volume
+---
 
-**Weekend vs Weekday Analysis**
+## 📌 Report Features
 
-**User Filters** (Date, Year, Hour, Price Difference)
+- **Volatility Analysis**: Year-wise and date-wise price fluctuation trends.
+- **Intraday Analysis**: Hourly breakdown of price and volume movements.
+- **Weekend vs Weekday Comparison**: Understand how trading activity differs between weekdays and weekends.
+- **Yearly Comparison**: Insights into average, minimum, and maximum prices along with total trading volume per year.
+- **User Filters**: Dynamic slicers for Date, Year, Hour, and Price Difference.
 
-**🔍 Insights from the Report:**
+---
 
-**1. Peak Price Year:**
+## 🔍 Key Insights
 
-📈 2021 had the highest average Bitcoin price at **$47,385.82**, reaching a maximum of $69,000.
+1. **📈 Highest Price Year**:  
+   - *2021* saw the highest average price: **$47,385.82**  
+   - Maximum price reached: **$69,000**
 
-**2. Most Volatile Year:**
+2. **📊 Most Volatile Year**:  
+   - *2021* had the greatest price difference: **$159.41K**
 
-📊 2021 also showed the highest volatility, with a price difference of **$159.41K** over the year.
+3. **📉 Lowest Price Point**:  
+   - *2017* recorded the lowest Bitcoin price: **$751.34**
 
-**3. Lowest Price Recorded:**
+4. **💰 Total Market Volume**:  
+   - Combined trading volume across years: **$211+ billion**
 
-📉 2017 recorded the lowest Bitcoin price at just **$751.34**.
+5. **📆 Trading Behavior**:  
+   - **Weekdays**: Contribute **~80%** of the total volume  
+   - **Weekends**: Contribute **~20%**, with similar price movement patterns
 
-**4. Total Market Volume:**
+6. **🗓️ Monthly Volume Insights**:  
+   - **December** has the highest total volume  
+   - **January** shows large price ranges, indicating high volatility
 
-💰 From 2017 to 2022, the total volume traded was over **$211 billion**.
-
-**5. Trading Behavior:**
-
-**Weekdays account for ~80% of trading volume**, indicating higher activity during the business week.
-
-**Weekends saw only 20%** of volume, but similar price patterns.
-
-**6. Monthly Trend:**
-
-**December** had the highest total volume traded across months.
-
-**January** saw a wide price range, indicating a pattern of early-year volatility.
+---
 
 ## 🧠 Note
 
